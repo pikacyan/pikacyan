@@ -9,7 +9,7 @@ I'm a passionate developer exploring the world of code, blockchain, and open sou
 
 - 🔭 I’m currently working on **Web3 integrations and automated trading systems**.
 - 🌱 I’m currently learning **EVM basics**.
-- 💬 Ask me about **Smart Contracts, Python AsyncIO, and Telegram Bot Automation**.
+- 💬 Ask me about **Python AsyncIO, and Telegram Bot Automation**.
 - ⚡ Fun fact: **I write code to hunt for crypto gems automatically!**
 
 ---
